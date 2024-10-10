@@ -3,7 +3,7 @@ Repositorio oficial para el desarrollo de la actividad evaluada Miniproyecto 2 d
 
 DEVLOG:
 Sesión 1 [10/10/2024]:
->Creación del repositorio de proyecto en GitHub
->Configuración Raspi
->Instalación inicial de Hardware
->Inicio de escritura de Código
+#Creación del repositorio de proyecto en GitHub
+#Configuración Raspi
+#Instalación inicial de Hardware
+#Inicio de escritura de Código
