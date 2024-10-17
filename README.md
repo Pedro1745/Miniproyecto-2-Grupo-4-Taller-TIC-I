@@ -10,3 +10,12 @@ Configuración Raspi.
 Instalación inicial de Hardware.
 
 Inicio de escritura de Código.
+
+Sesión 2 [17/10/2024]:
+Actualización del código principal
+Adición Segmento Logging
+Correcciones generales sensores.
+
+Inicio Creación Interfaz Grafica
+
+Integración Sensor Distancia
