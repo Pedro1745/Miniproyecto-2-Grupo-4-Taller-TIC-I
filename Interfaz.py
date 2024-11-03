@@ -1,20 +1,20 @@
 from PyQt6 import QtCore, QtGui, QtWidgets
 from PyQt6.QtGui import QPixmap
 from MascaraFinal import Ui_MainWindow
-#from gpiozero import RGBLED, Button, Buzzer
+from gpiozero import RGBLED, Button, Buzzer
 import sys
 import os
 import random
-#led_boton = RGBLED(red = 16,green = 19,blue = 13)
-#led_slider = RGBLED(red = 21,green = 20,blue = 26)
+led_boton = RGBLED(red = 16,green = 19,blue = 13)
+led_slider = RGBLED(red = 21,green = 20,blue = 26)
 class MascaraFinal(QtWidgets.QMainWindow, Ui_MainWindow):
     def __init__(self, *args, **kwargs):
         super(MascaraFinal, self).__init__(*args, **kwargs)
         self.setupUi(self)
-        '''#leds
+        #leds
         self.encendido=0
         self.pushButton_2.clicked.connect(self.led_on)
-        self.horizontalSlider.valueChanged.connect(self.led_lum)'''
+        self.horizontalSlider.valueChanged.connect(self.led_lum)
         #imagenes
         self.nombres = ["Palkia", "Dialga", "Giratina", "Reshiram", "Zekrom", "Kyurem", "Tornadus", "Thundurus", "Landorus", "Enamorus"]
         base_dir = os.path.expanduser("~") + "/Desktop/MP2/ITEM2/fotosMP2/"
@@ -41,7 +41,7 @@ class MascaraFinal(QtWidgets.QMainWindow, Ui_MainWindow):
         self.timer_is_running = False 
         self.mostrar_contenido()
     #leds
-    '''def led_on(self):
+    def led_on(self):
         if self.encendido==0:
             led_boton.color = (1,1,1)
             self.encendido=1
@@ -51,7 +51,7 @@ class MascaraFinal(QtWidgets.QMainWindow, Ui_MainWindow):
     def led_lum(self,valor):
         v = valor/100
         led_slider.color = (v,v,v)
-        self.lcdNumber.display(v*100)'''
+        self.lcdNumber.display(v*100)
     #imagenes
     def mostrar_contenido(self):
         n = random.randint(0,9)
