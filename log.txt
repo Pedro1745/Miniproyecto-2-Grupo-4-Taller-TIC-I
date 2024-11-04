@@ -1,0 +1,402 @@
+2024-10-24 15:38:06,073 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:38:06,073 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:38:08,333 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:38:08,334 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:38:10,594 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:38:10,594 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:38:17,114 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:38:17,115 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:38:19,374 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:38:19,375 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:38:25,895 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:38:25,895 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:38:28,155 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:38:28,155 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:38:30,416 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:38:30,416 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:38:36,936 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:38:36,937 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:38:39,196 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:38:39,197 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:38:41,456 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:38:41,457 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:38:43,717 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:38:43,718 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:38:45,978 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:38:45,978 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:38:52,497 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:38:52,497 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:38:54,758 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:38:54,758 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:38:57,018 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:38:57,018 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:39:03,540 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:39:03,540 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:39:05,801 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:39:05,802 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:39:08,062 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:39:08,062 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:39:10,323 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:39:10,323 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:39:16,844 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:39:16,845 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:39:19,105 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:39:19,106 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:39:21,365 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:39:21,366 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:39:23,626 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:39:23,626 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:39:25,886 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:39:25,886 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:39:36,667 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:39:36,667 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:39:38,927 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:39:38,927 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:39:41,188 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:39:41,188 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:39:43,448 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:39:43,449 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:39:45,709 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:39:45,710 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:39:47,971 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:39:47,971 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:39:50,230 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:39:50,230 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:39:52,491 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:39:52,491 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:39:59,012 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:39:59,012 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:40:01,274 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:40:01,274 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:40:03,535 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:40:03,535 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:40:05,796 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:40:05,796 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:40:12,317 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:40:12,317 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:40:14,579 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:40:14,580 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:40:21,101 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:40:21,102 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:40:23,362 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:40:23,362 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:40:25,623 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:40:25,624 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:40:27,885 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:40:27,885 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:40:30,146 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:40:30,146 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:40:32,407 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:40:32,407 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:40:34,668 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:40:34,668 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:40:36,929 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:40:36,929 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:40:39,192 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:40:39,192 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:40:41,452 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:40:41,452 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:40:43,712 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:40:43,712 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:40:45,972 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:40:45,973 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:40:48,235 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:40:48,235 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:40:50,497 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:40:50,497 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:40:52,757 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:40:52,757 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:40:59,278 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:40:59,278 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:41:01,539 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:41:01,540 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:41:03,800 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:41:03,800 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:41:10,322 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:41:10,322 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:41:12,583 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:41:12,583 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:41:14,844 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:41:14,845 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:41:17,106 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:41:17,106 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:41:19,366 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:41:19,366 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:41:21,628 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:41:21,629 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:41:23,889 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:41:23,890 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:41:26,150 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:41:26,151 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:41:32,672 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:41:32,672 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:41:34,933 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:41:34,933 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:41:37,194 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:41:37,195 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:41:39,455 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:41:39,455 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:41:41,717 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:41:41,718 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:41:43,979 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:41:43,979 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:41:46,241 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:41:46,241 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:41:48,503 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:41:48,504 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:41:50,764 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:41:50,765 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:41:53,025 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:41:53,026 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:41:55,286 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:41:55,287 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:41:57,550 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:41:57,550 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:41:59,820 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:41:59,823 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:42:02,083 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:42:02,083 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:42:04,345 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:42:04,345 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:42:06,605 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:42:06,606 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:42:08,865 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:42:08,866 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:42:11,126 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:42:11,126 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:42:13,386 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:42:13,386 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:42:15,648 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:42:15,649 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:42:17,909 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:42:17,910 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:42:20,171 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:42:20,171 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:42:26,691 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:42:26,691 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:42:28,952 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:42:28,952 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:42:31,212 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:42:31,212 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:42:33,472 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:42:33,473 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:42:35,733 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:42:35,733 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:42:37,994 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:42:37,995 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:42:40,255 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:42:40,255 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:42:42,516 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:42:42,516 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:42:44,780 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:42:44,780 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:42:47,041 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:42:47,041 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:42:49,301 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:42:49,301 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:42:55,823 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:42:55,823 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:42:58,083 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:42:58,083 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:43:00,344 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:43:00,345 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:43:02,605 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:43:02,606 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:43:04,867 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:43:04,867 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:43:07,128 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:43:07,128 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:43:09,388 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:43:09,389 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:43:11,649 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:43:11,650 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:43:18,170 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:48%
+2024-10-24 15:43:18,170 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:43:24,691 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:48%
+2024-10-24 15:43:24,692 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:43:26,952 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:48%
+2024-10-24 15:43:26,952 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:43:29,212 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:48%
+2024-10-24 15:43:29,213 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:43:31,474 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:48%
+2024-10-24 15:43:31,475 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:43:33,735 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:48%
+2024-10-24 15:43:33,735 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:43:35,996 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:48%
+2024-10-24 15:43:35,996 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:43:38,257 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:48%
+2024-10-24 15:43:38,257 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:43:40,518 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:48%
+2024-10-24 15:43:40,518 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:43:42,778 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:48%
+2024-10-24 15:43:42,779 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:43:45,038 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:48%
+2024-10-24 15:43:45,038 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:43:47,299 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:48%
+2024-10-24 15:43:47,299 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:43:49,559 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:48%
+2024-10-24 15:43:49,559 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:43:51,820 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:48%
+2024-10-24 15:43:51,820 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:43:54,081 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:48%
+2024-10-24 15:43:54,081 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:43:56,342 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:48%
+2024-10-24 15:43:56,343 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:43:58,605 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:48%
+2024-10-24 15:43:58,605 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:44:00,866 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:48%
+2024-10-24 15:44:00,866 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:44:03,126 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:48%
+2024-10-24 15:44:03,127 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:44:05,387 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:48%
+2024-10-24 15:44:05,388 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:44:07,648 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:48%
+2024-10-24 15:44:07,649 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:44:09,908 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:48%
+2024-10-24 15:44:09,909 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:44:12,169 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:48%
+2024-10-24 15:44:12,169 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:44:14,429 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:48%
+2024-10-24 15:44:14,429 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:44:16,689 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:48%
+2024-10-24 15:44:16,690 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:44:18,950 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:48%
+2024-10-24 15:44:18,950 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:44:21,210 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:48%
+2024-10-24 15:44:21,211 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:44:23,470 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:44:23,471 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:44:25,730 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:44:25,731 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:44:27,991 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:44:27,991 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:44:30,251 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:44:30,252 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:44:32,512 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:44:32,513 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:44:34,773 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:44:34,774 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:44:37,035 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:44:37,035 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:44:39,295 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:44:39,296 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:44:41,556 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:44:41,556 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:44:43,816 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:44:43,816 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:44:50,336 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:44:50,336 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:44:52,596 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:44:52,596 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:44:54,856 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:44:54,857 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:44:57,117 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:44:57,117 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:45:16,416 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:45:16,416 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:45:18,676 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:45:18,676 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:45:20,936 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:45:20,937 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:45:27,456 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:45:27,456 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:45:29,716 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:45:29,716 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:45:31,977 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:45:31,978 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:45:34,238 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:45:34,238 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:45:36,498 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:45:36,498 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:45:38,760 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:45:38,761 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:45:45,280 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:45:45,281 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:45:47,540 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:48%
+2024-10-24 15:45:47,541 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:45:49,802 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:45:49,802 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:45:52,062 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:48%
+2024-10-24 15:45:52,063 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:45:54,324 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:45:54,324 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:45:56,585 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:45:56,585 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:45:58,845 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:45:58,846 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:46:01,105 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:46:01,106 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:46:03,366 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:46:03,367 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:46:05,626 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:46:05,627 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:46:07,889 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:46:07,890 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:46:10,150 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:46:10,151 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:46:12,453 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:46:12,453 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:46:14,713 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:46:14,714 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:46:16,975 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:46:16,975 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:46:19,235 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:46:19,235 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:46:21,496 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:46:21,496 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:46:28,016 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:46:28,017 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:46:30,277 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:46:30,277 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:46:32,536 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:46:32,537 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:46:34,797 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:46:34,798 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:46:37,058 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:46:37,059 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:46:39,320 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:46:39,320 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:46:45,841 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:46:45,842 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:46:48,103 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:46:48,107 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:46:50,368 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:46:50,368 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:47:01,149 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:47:01,149 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:47:03,410 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:47:03,410 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:47:05,671 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:47:05,671 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:47:07,931 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:47:07,931 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:47:10,192 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:47:10,192 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:47:12,453 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:47:12,453 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:47:14,714 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:47:14,715 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:47:21,236 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:47:21,236 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:47:27,758 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:47:27,758 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:47:30,019 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:47:30,019 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:47:32,281 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:47:32,281 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:47:38,803 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:47:38,803 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:47:41,064 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:47:41,064 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:47:43,325 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:47:43,325 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:47:45,587 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:47:45,588 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:47:47,848 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:47:47,849 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:47:50,111 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:47:50,112 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:47:52,372 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:47:52,373 - INFO - Distancia Medida: 300.00 cm
+2024-10-24 15:47:58,894 - INFO - Temperatura Registrada: 22.0C Humedad Registrada:49%
+2024-10-24 15:47:58,894 - INFO - Distancia Medida: 300.00 cm
